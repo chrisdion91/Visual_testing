@@ -6,12 +6,12 @@
    <elementGuidId>50e5f507-4328-4b14-82bf-be863772b887</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.col-sm-offset-4.col-sm-8 > div.input-group</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='login']/div/div/div[2]/form/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-offset-4.col-sm-8 > div.input-group</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>35c95d73-3417-4456-bd32-2049e4090679</webElementGuid>
+      <webElementGuid>a5a88d8b-b000-4d1b-bd48-2c9bea1de6b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-group</value>
-      <webElementGuid>98013814-b75a-4900-9068-e8d2d26f7752</webElementGuid>
+      <webElementGuid>a0a4b5f5-6e98-4969-b4e7-4db546ee445e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-offset-4 col-sm-8&quot;]/div[@class=&quot;input-group&quot;]</value>
-      <webElementGuid>da12af15-f4aa-4edc-b01e-2f78a4ddbc8b</webElementGuid>
+      <webElementGuid>cebaf087-ac50-4e9e-8670-846a3994c28c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div/div[2]/div/div</value>
-      <webElementGuid>5eb1b76e-154d-433c-a64e-8d5d53a2a0d1</webElementGuid>
+      <webElementGuid>f45b04ef-fc26-43d8-b30f-b0f861ddc497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/following::div[5]</value>
-      <webElementGuid>2d77bfe9-c5ca-4a4e-b77a-5d8fae9130dc</webElementGuid>
+      <webElementGuid>ee1fdfb3-a6f7-4ca3-aeaf-ebd6399572ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[8]</value>
-      <webElementGuid>a11e7ba5-2311-47c2-9b08-13c0990214d5</webElementGuid>
+      <webElementGuid>634f10d1-5dba-4e42-8d5a-5c958b2f82bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[1]</value>
-      <webElementGuid>11901358-8b5c-4658-8eb9-b44c77f5ab60</webElementGuid>
+      <webElementGuid>6b4b48d9-b043-4c5d-b122-fc4bebde0296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[3]</value>
-      <webElementGuid>d6947c6b-3d5a-46de-a268-b4d476cca463</webElementGuid>
+      <webElementGuid>53f686a5-6fb6-4499-ac83-8b453f5425af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>56a14014-6284-4a98-8b1e-35a7964ee487</webElementGuid>
+      <webElementGuid>85864592-06a0-48d2-bd4c-ee49d453335f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
