@@ -34,17 +34,19 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Hongkong CURA Healthcare Center', true)
+    'Seoul CURA Healthcare Center', true)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_24'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_23'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Quarterly Physical')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'check-up')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
 
 WebUI.takeScreenshotAsCheckpoint('appinotment_conf')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
+
+WebUI.closeBrowser()
 
